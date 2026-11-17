@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+.env
+
+# ROS
+build/
+devel/
+install/
+log/
+.catkin_workspace
+
+# SQLite
+*.db
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environnement virtuel Python
+venv/
+__pycache__/
+
+# Clés de sécurité SSL
+*.key
